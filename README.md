@@ -2,7 +2,7 @@
 
 🌐 GitHub: [@Santix0x0](https://github.com/Santix0x0)  
 📍 Ubicación: 🌎  
-📧 Email: lilliana@example.com *(actualiza esto con tu correo real)*    
+📧 Email: montoyasantiago3333@gmail.com *(actualiza esto con tu correo real)*    
 
 ---
 
