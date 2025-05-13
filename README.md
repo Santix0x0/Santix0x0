@@ -1,16 +1,48 @@
-## Hi there 👋
+📄 CV - FullStack Developer
+🚀 Nombre: Santiago Montoya Ramirez
+📧 Email: montoyasantiago3333@gmail.com
+🔗 GitHub: github.com/tuperfil
+🔗 LinkedIn: linkedin.com/in/tuperfil
+💻 Habilidades Técnicas
+Lenguajes & Frameworks	Bases de Datos	Herramientas
+JavaScript JavaScript	MongoDB MongoDB	Git Git
+React React.js	MySQL MySQL	Docker Docker
+Java Java (POO)	PostgreSQL PostgreSQL	VS Code VS Code
+Python Python	Firebase Firebase	Figma Figma
+Django Django		Postman Postman
+Laravel Laravel		
+HTML HTML5		
+CSS CSS3		
+🎓 Educación
+📚 Grado/Técnico en Informática
+🏛️ [Nombre de la Universidad/Instituto] - 📅 Año de graduación
 
-<!--
-**Santix0x0/Santix0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Experiencia Laboral
+👨‍💻 FullStack Developer
+🏢 [Empresa] - 📅 [Fecha de inicio] a [Fecha de fin]
+✔ Desarrollo de aplicaciones web con React.js + Django/Laravel
+✔ Diseño de bases de datos en MongoDB y SQL
+✔ Implementación de APIs RESTful
 
-Here are some ideas to get you started:
+👨‍💻 Frontend Developer
+🏢 [Empresa] - 📅 [Fecha de inicio] a [Fecha de fin]
+✔ Maquetación con HTML5, CSS3, JavaScript
+✔ Uso de librerías como Bootstrap, TailwindCSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Proyectos Destacados
+🔹 [Proyecto 1] - Aplicación web en React + Node.js
+🔹 [Proyecto 2] - Sistema de gestión con Django + PostgreSQL
+🔹 [Proyecto 3] - E-commerce con Laravel + MySQL
+
+📌 Idiomas
+🇪🇸 Español - Nativo
+🇺🇸 Inglés - Intermedio/Avanzado
+
+🎨 Diseño en MD (Material Design)
+Puedes usar herramientas como:
+
+Canva (Para diseño gráfico)
+
+Figma (Para prototipado)
+
+Google Docs/Microsoft Word (Para estructura clara)
